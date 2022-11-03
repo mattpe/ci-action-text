@@ -39,7 +39,7 @@ jobs:
           mv toc.txt pub/the-document.txt
           mv *.txt pub/
       - name: publish my compiled app
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifa
         with:
           name: document-ready-for-publishing
           path: pub
