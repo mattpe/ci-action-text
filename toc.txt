@@ -1,3 +1,0 @@
-This is my main doc.
-
-- firspage: another dummy file
